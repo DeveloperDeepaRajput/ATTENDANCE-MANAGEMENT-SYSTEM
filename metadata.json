@@ -1,0 +1,6 @@
+{
+  "name": "Smart Attendance Management System",
+  "description": "An interactive premium simulator and Java source code hub for the Smart Attendance Management System college minor project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
