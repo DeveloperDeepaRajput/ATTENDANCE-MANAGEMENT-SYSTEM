@@ -7,20 +7,22 @@ A Java-based Smart Attendance Management System developed to simplify and automa
 # 📸 Project Screenshots
 
 ## Login Screen
-![Login Screen](screenshots/login.png)
+![Login Screen](screenshots2/login.png)
 
 ## Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots2/dashboard.png)
 
 ## Student Management
-![Student Management](screenshots/student-management.png)
+![Student Management](screenshots2/student-profile.png)
 
 ## Mark Attendance
-![Mark Attendance](screenshots/mark-attendance.png)
+![Mark Attendance](screenshots2/mark-attendance.png)
 
 ## Attendance Report
-![Attendance Report](screenshots/attendance-report.png)
+![Attendance Report](screenshots2/history.png)
 
+## Themes
+![Themes](screenshots2/themes.png)
 ---
 
 # ✨ Features
